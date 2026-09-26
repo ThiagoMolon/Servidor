@@ -5,3 +5,5 @@ whitelist.json
 usercache.json
 server.properties
 
+banned-ips.json
+banned-player.json

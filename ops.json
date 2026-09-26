@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "dc2e4190-930e-4a34-a511-69147d567b62",
+    "name": "ThiagoPlayer130",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
