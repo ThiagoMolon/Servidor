@@ -1,7 +1,0 @@
-.env
-logs/
-.vscode/
-whitelist.json
-usercache.json
-server.properties
-
